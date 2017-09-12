@@ -1,0 +1,1 @@
+<p>Hello <?= $_SESSION['name']; ?> </p>
