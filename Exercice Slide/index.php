@@ -5,10 +5,7 @@
 	session_start();
 
 	require_once(CONTROLLERS . 'User.php');
-	$user = new User();
-/*	$user->register('test@test.com', 'pass', 'Paul');
-*/	$user->login('test@test.com', 'pass');
-	
+
 
 ?>
 

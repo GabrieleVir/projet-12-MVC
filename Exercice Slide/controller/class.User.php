@@ -1,9 +1,5 @@
 <?php
-//Insert class user right here
-define('MODEL', 'model/');
-
-require_once ( MODEL .'class.Database.php');
-
+namespace Rest;
 	class USER 
 	{
 		public $db_user_con;
@@ -112,5 +108,9 @@ require_once ( MODEL .'class.Database.php');
 		}
 	}
 
+	$user = new User();
+/*	$user->register('test@test.com', 'pass', 'Paul');
+*/	$user->login('test@test.com', 'pass');
+	
 
 ?>
