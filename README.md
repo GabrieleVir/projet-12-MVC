@@ -15,6 +15,7 @@ And I have used some more source to help me understand how it works: (Those are 
 
 * [Vidéo sur le MVC](https://www.youtube.com/watch?v=HhVY6ofLym8&index=21&list=PLjwdMgw5TTLVDKy8ikf5Df5fnMqY-ec16)
 * [Sa playlist sur l'orienté objet en php](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVDKy8ikf5Df5fnMqY-ec16)
+* [Basics of MVC tutorial on sitepoint](https://www.sitepoint.com/the-mvc-pattern-and-php-1/)
 
 I'll write everyday the difficulties I encountered and how I got over it:
 * Day 1: I didn't know where to start, I lost a lot of time and energy trying to understand how everything should work but I was looking at the task as a whole. I found a solution after dividing the task in a lot of little subtasks. Focusing on solving the little problems to solve the big one later was the key I needed to finish the first part of this exercise. 
