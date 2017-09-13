@@ -25,5 +25,5 @@ I'll write everyday the difficulties I encountered and how I got over it:
 
 Special thanks:
 
-* [Daniela](https://github.com/dnllromao)
-* [Habib](https://github.com/ModjoInc)
+* [DnllRomao](https://github.com/dnllromao)
+* [ModjoInc](https://github.com/ModjoInc)
