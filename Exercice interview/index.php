@@ -5,9 +5,9 @@
 	<title>Document</title>
 </head>
 <body>
-
-	<?php include 'views/index.php'; ?>
-
+	<!--Will output everyting-->
+	<?php include 'views/layout.php'; ?>
+	
 	<?php include 'views/footer.php'; ?>
 </body>
 </html>
