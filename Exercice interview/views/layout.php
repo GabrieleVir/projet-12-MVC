@@ -1,41 +1,40 @@
+<?php
+
+?>
+
 <!DOCTYPE HTML>
-<!--
-	Massively by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
 	<head>
 		<title>Massively by HTML5 UP</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="stylesheet" href="main")>
+		<noscript><link rel="stylesheet" href="noscript" /></noscript>
+		
 	</head>
 	<body class="is-loading">
-
 		<!-- Wrapper -->
 			<div id="wrapper" class="fade-in">
 
 				<!-- Intro -->
 
-				<?php include 'views/intro.html'; ?>
+				<?php include 'intro.html'; ?>
 		
 				<!-- Header -->
-				<?php include 'views/header.html'; ?>
+				<?php include 'header.html'; ?>
 
 				<!-- Nav -->
 					<nav id="nav">
 						<ul class="links">
-							<li class="active"><a href="index.html">This is Massively</a></li>
-							<li><a href="generic.html">Generic Page</a></li>
-							<li><a href="elements.html">Elements Reference</a></li>
+							<li class="active"><a href="index.html">Comment je l'ai trouvé</a></li>
+							<li><a href="generic.html">L'entreprise</a></li>
+							<li><a href="elements.html">Le web-developper</a></li>
+							<li><a href="ACHANGER.html">L'interview</a></li>
+							<li><a href="ACHANGER.php">Conclusion</a></li>
 						</ul>
 						<ul class="icons">
-							<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-							<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-							<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-							<li><a href="#" class="icon fa-github"><span class="label">GitHub</span></a></li>
+							<li><a href="https://www.linkedin.com/in/gabriele-virga-4a7898145/" class="icon fa-linkedin"><span class="label">Twitter</span></a></li>
+							<li><a href="https://github.com/GabrieleVir/projet-12-MVC" class="icon fa-github"><span class="label">GitHub</span></a></li>
 						</ul>
 					</nav>
 
