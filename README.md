@@ -10,7 +10,7 @@ We had some source at our disposal for the realisation of this project:
 * [Slides for a fast introduction to MVC](https://github.com/becodeorg/BXLCentral/blob/master/Projects/12-MVC/MVC.pdf)
 * [And the briefing](https://github.com/becodeorg/BXLCentral/tree/master/Projects/12-MVC)
 
-And I have used some more source to help me understand how it works: (Those are french tutorials)
+And I gathered some more source to help me understand how it works: (Those are french tutorials)
 
 * [Vidéo sur le MVC](https://www.youtube.com/watch?v=HhVY6ofLym8&index=21&list=PLjwdMgw5TTLVDKy8ikf5Df5fnMqY-ec16)
 * [Sa playlist sur l'orienté objet en php](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVDKy8ikf5Df5fnMqY-ec16)
