@@ -1,4 +1,6 @@
-# Welcome in a MVC project!
+<div style="margin:auto;border:2px solid black;background:green;padding:10px"> 
+<h1>Welcome in a MVC project!</h1>
+</div>
 
 For this project, I have to perform an interview and create a website using Model Views Controller structure for presenting their answers.
 In this case the interviewees are 2 guys: 
