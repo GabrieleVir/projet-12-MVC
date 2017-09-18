@@ -22,6 +22,17 @@ I'll write everyday the difficulties I encountered and how I got over it:
  
 * Day 2: Starting to break up the index in different view pages and using htaccess and routes to include the views into the index. Was having big trouble linking the css and the javascript. I finally found the problem after testing the differents parts (controller, routes, includes and htaccess), the htaccess file was blocking the css links. For the next days, I'll put the content in the website and create the different pages. (Need two more days of work)
 
+* Day 3: I didn't really have a lot of difficulties. It just took a lot of time to link every views pages correctly with a nav bar that went frome one to another. The last part was to put content in the different pages. I finished the beta today but I still need to clean the code and put it online. Not urgent but it will still take 2 to 3 hours to polish everything.
+
+### Screenshot of the beta : 
+
+
+
+### To do list to polish this project :
+* Clean the code to apply DRY (*bad dum tsss*)
+* Put the project online (Will use webhost)
+
+
 
 
 Special thanks:
