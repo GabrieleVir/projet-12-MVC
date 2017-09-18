@@ -1,11 +1,8 @@
-<div style="margin:auto;border:2px solid black;background:green;padding:10px"> 
-<h1>Welcome in a MVC project!</h1>
-</div>
 
-For this project, I have to perform an interview and create a website using Model Views Controller structure for presenting their answers.
-In this case the interviewees are 2 guys: 
-* One who had a lot of experiences, done some IoT and backend.
-* The other who did an internship in web-development in August.
+# Welcome in a MVC project!
+
+
+For this project, I had to perform an interview and create a website using Model Views Controller design pattern to present his answers.
 
 We have some source at our disposal for the realisation of this project:
 
