@@ -39,3 +39,4 @@ Special thanks:
 
 * [DnllRomao](https://github.com/dnllromao)
 * [ModjoInc](https://github.com/ModjoInc)
+* [Gary](https://github.com/GaryLuypaert) For the screenshots idea
