@@ -25,7 +25,7 @@ I'll write everyday the difficulties I encountered and how I got over it:
 * Day 3: I didn't really have a lot of difficulties. It just took a lot of time to link every views pages correctly with a nav bar that went frome one to another. The last part was to put content in the different pages. I finished the beta today but I still need to clean the code and put it online. Not urgent but it will still take 2 to 3 hours to polish everything.
 
 ### Screenshot of the beta : 
-
+[Beta](file:///var/www/html/projet-12-MVC/Screenshots%20project/Screenshot%20from%202017-09-18%2020-08-15.png)
 
 
 ### To do list to polish this project :
