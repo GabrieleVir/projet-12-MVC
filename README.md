@@ -4,7 +4,7 @@
 
 For this project, I had to perform an interview and create a website using Model Views Controller design pattern to present his answers.
 
-We have some source at our disposal for the realisation of this project:
+We had some source at our disposal for the realisation of this project:
 
 * [Templates html/css](https://html5up.net/)
 * [Slides for a fast introduction to MVC](https://github.com/becodeorg/BXLCentral/blob/master/Projects/12-MVC/MVC.pdf)
