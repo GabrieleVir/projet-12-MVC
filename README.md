@@ -1,4 +1,4 @@
-# projet-12-MVC
+# Welcome in a MVC project!
 
 For this project, I have to perform an interview and create a website using Model Views Controller structure for presenting their answers.
 In this case the interviewees are 2 guys: 
