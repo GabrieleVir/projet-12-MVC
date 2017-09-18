@@ -36,7 +36,7 @@ I'll write everyday the difficulties I encountered and how I got over it:
 ### To do list to polish this project :
 * Clean the code to apply DRY (*bad dum tsss*)
 * Put the project online (Will use webhost)
-
+* Check if the responsive works well.
 
 
 
