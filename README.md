@@ -16,7 +16,7 @@ And I gathered some more source to help me understand how it works: (Those are f
 * [Sa playlist sur l'orienté objet en php](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVDKy8ikf5Df5fnMqY-ec16)
 * [Basics of MVC tutorial on sitepoint](https://www.sitepoint.com/the-mvc-pattern-and-php-1/)
 
-I'll write everyday the difficulties I encountered and how I got over it:
+I wrote here everyday difficulties I encountered and how I got over it:
 * Day 1: I didn't know where to start, I lost a lot of time and energy trying to understand how everything should work but I was looking at the task as a whole. I found a solution after dividing the task in a lot of little subtasks. Focusing on solving the little problems to solve the big one later was the key I needed to finish the first part of this exercise.
  
 * Day 2: Starting to break up the index in different view pages and using htaccess and routes to include the views into the index. Was having big trouble linking the css and the javascript. I finally found the problem after testing the differents parts (controller, routes, includes and htaccess), the htaccess file was blocking the css links. For the next days, I'll put the content in the website and create the different pages. (Need two more days of work)
