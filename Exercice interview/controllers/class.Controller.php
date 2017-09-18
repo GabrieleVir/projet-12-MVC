@@ -3,7 +3,7 @@
 class Controller extends Database {
 
 	public static function createView($viewName){
-		require_once('./views/'.$viewName.'.php');
+		require_once('./views/layout.'.$viewName.'.php');
 	}
 	
 }

@@ -8,7 +8,6 @@
 */
 
 /* Reset */
-
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 		margin: 0;
 		padding: 0;
@@ -3028,8 +3027,8 @@
 			width: 100%;
 			height: 100%;
 			background-color: #212931;
-			background-image: url("assets/img/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("assets/img/bg.jpg");
-			background-size: auto,								auto,														100% auto;
+			background-image: url("../img/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../img/bg.jpg");
+			background-size: auto,								cover,														100% auto;
 			background-position: center,								center,														top center;
 			background-repeat: repeat,								no-repeat,													no-repeat;
 			background-attachment: scroll,								scroll,														scroll;
@@ -4479,4 +4478,48 @@
 			visibility: visible;
 		}
 
+	}
+
+	blockquote {
+		text-align: right;
+		border: 0px;
+	}
+
+	.table_matiere_nav {
+	    position: fixed;
+    	top: 28vh;
+		
+		/*Animation to make it appear*/
+
+    	left: -220px;
+    	transition:left 0.2s ease-in-out;		
+	}
+	.interview_list_layout {
+		list-style: none;
+	}
+
+	/*ul layout css*/
+	.interview_table_matiere {
+	    border: 2px solid #626362;
+    	padding: 1vw;
+	    margin-right: 2vw;
+		background-color: white;
+        transition: background-color border 0.2s ease-in-out, color 0.2s ease-in-out;
+		
+	}    
+
+	.interview_table_matiere:hover {
+	    transition: background-color border 0.2s ease-in-out, color 0.2s ease-in-out;
+		background-color:#626362;
+		border:2px solid #18bfef;
+	}
+
+	.table_matiere_nav:hover {
+	    left:-14px;
+		transition:left 0.2s ease-in-out;		
+
+	}
+
+	#main {
+		margin-bottom: 50vh;
 	}

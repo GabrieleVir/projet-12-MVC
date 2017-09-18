@@ -1,25 +1,25 @@
 <?php
 
 Route::set('index.php', function(){
-	Css::linkCss('cssLinks');
-	Index::createView('layout');
+	Index::createView('Index');
 });
 
-Route::set('company', function(){
-	Company::createView('company');
+Route::set('Entreprise', function(){
+	Controller::createView('Entreprise');
 });
 
-Route::set('WebDevelopper', function(){
-	echo 'La page WebDevelopper';
+Route::set('WebDev', function(){
+	Controller::createView('WebDev');
 });
 
 Route::set('Interview', function(){
-	echo 'La page Interview';
+	Controller::createView('Interview');
 });
 
 Route::set('Conclusion', function(){
-	echo 'La page Conclusion';
+	Controller::createView('Conclusion');
 });
+
 
 
 ?>
