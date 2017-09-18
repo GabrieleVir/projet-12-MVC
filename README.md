@@ -37,6 +37,6 @@ I'll write everyday the difficulties I encountered and how I got over it:
 
 Special thanks:
 
-* [DnllRomao](https://github.com/dnllromao)
-* [ModjoInc](https://github.com/ModjoInc)
-* [Gary](https://github.com/GaryLuypaert) For the screenshots idea
+* [DnllRomao](https://github.com/dnllromao) (MVC)
+* [ModjoInc](https://github.com/ModjoInc) (MVC)
+* [Gary](https://github.com/GaryLuypaert) (For the screenshots idea)
