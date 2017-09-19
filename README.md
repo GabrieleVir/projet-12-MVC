@@ -10,6 +10,8 @@ We had some source at our disposal for the realisation of this project:
 * [Slides for a fast introduction to MVC](https://github.com/becodeorg/BXLCentral/blob/master/Projects/12-MVC/MVC.pdf)
 * [And the briefing](https://github.com/becodeorg/BXLCentral/tree/master/Projects/12-MVC)
 
+## Difficulties :
+
 And I gathered some more source to help me understand how it works: 
 
 * [Videos on MVC(French)](https://www.youtube.com/watch?v=HhVY6ofLym8&index=21&list=PLjwdMgw5TTLVDKy8ikf5Df5fnMqY-ec16)
@@ -23,7 +25,7 @@ I wrote here everyday difficulties I encountered and how I got over it:
 
 * Day 3: I didn't really have a lot of difficulties. It just took a lot of time to link every views pages correctly with a nav bar that went frome one to another. The last part was to put content in the different pages. I finished the beta today but I still need to clean the code and put it online. Not urgent but it will still take 2 to 3 hours to polish everything.
 
-### Screenshot of the beta : 
+## Screenshot of the beta : 
 <div style="display:inline;">
    <img src ='https://raw.githubusercontent.com/GabrieleVir/projet-12-MVC/master/Screenshots%20project/Screenshot%20from%202017-09-18%2020-08-15.png' width="33%" height="200" >
 
