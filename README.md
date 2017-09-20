@@ -2,7 +2,7 @@
 # Welcome in a MVC project!
 
 
-For this project, I had to perform an interview and create a website using Model Views Controller design pattern to present his answers.
+For this project, I had to perform an interview and create a website using Model Views Controller development pattern to present his answers.
 
 We had some source at our disposal for the realisation of this project:
 
