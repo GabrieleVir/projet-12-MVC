@@ -10,7 +10,6 @@ We had some source at our disposal for the realisation of this project:
 * [Slides for a fast introduction to MVC](https://github.com/becodeorg/BXLCentral/blob/master/Projects/12-MVC/MVC.pdf)
 * [And the briefing](https://github.com/becodeorg/BXLCentral/tree/master/Projects/12-MVC)
 
-## Difficulties :
 
 And I gathered some more source to help me understand how it works: 
 
@@ -18,6 +17,9 @@ And I gathered some more source to help me understand how it works:
 * [Grafikart Videos on OOP(French)](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVDKy8ikf5Df5fnMqY-ec16)
 * [Sitepoint MVC basics (French)](https://www.sitepoint.com/the-mvc-pattern-and-php-1/)
 * [Videos on MVC simplified(English)](https://www.youtube.com/watch?v=DpbUqJcch0Y)
+
+
+## Difficulties :
 
 I wrote here everyday difficulties I encountered and how I got over it:
 * Day 1: I didn't know where to start, I lost a lot of time and energy trying to understand how everything should work but I was looking at the task as a whole. I found a solution after dividing the task in a lot of little subtasks. Focusing on solving the little problems to solve the big one later was the key I needed to finish the first part of this exercise.
