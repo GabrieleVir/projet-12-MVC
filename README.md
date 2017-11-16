@@ -39,7 +39,6 @@ I wrote here everyday difficulties I encountered and how I got over it:
 
 ### To do list to polish this project :
 *  ~~Clean the code to apply DRY (*bad dum tsss*)~~ (Done!)
-* Put the project online (Will use ~~webhost~~ Heroku)
 *  ~~Check if the responsive works well.~~ (It works!)
 * ~~Normalize the casing of file names [Issue here](https://github.com/GabrieleVir/projet-12-MVC/issues/3#issue-258755698)~~ (Done!)
 
